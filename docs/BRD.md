@@ -106,3 +106,36 @@ The project shall use Git and GitHub for collaborative development, version cont
 ### FR-13: Technical Documentation
 
 The project shall maintain enterprise-standard technical documentation and sprint deliverables throughout the project lifecycle.
+
+## 7. Data Sources
+
+The Enterprise Retail Data Platform will integrate data from multiple heterogeneous enterprise systems. The following source systems are identified for the project:
+
+| Source ID | Source System                          | Business Purpose                                           | Planned Format | Approximate Data Volume |
+| --------- | -------------------------------------- | ---------------------------------------------------------- | -------------- | ----------------------: |
+| DS-01     | Point of Sale (POS)                    | Store-level sales and transaction information              | CSV            |         ~10,000 records |
+| DS-02     | E-Commerce                             | Online customer orders and transactions                    | Excel          |          ~5,000 records |
+| DS-03     | Customer Relationship Management (CRM) | Customer master and customer information                   | JSON           |    ~3,000–5,000 records |
+| DS-04     | Inventory Management System            | Product stock and inventory information                    | XML            |    ~2,000–5,000 records |
+| DS-05     | Supplier Portal                        | Supplier purchase orders and supplier-related transactions | SQL            |    ~1,000–3,000 records |
+
+### 7.1 Data Source Strategy
+
+The project will use a combination of publicly available retail data and project-generated/synthetic data to simulate the heterogeneous enterprise source systems described in the business scenario.
+
+The datasets will be designed with common business identifiers such as Customer ID, Product ID, Order ID, Store ID, and Supplier ID wherever applicable. This will allow the different source systems to represent an integrated retail data ecosystem.
+
+The project will use manageable dataset sizes suitable for demonstrating enterprise data ingestion, staging, validation, logging, and exception handling without requiring extremely large datasets.
+
+### 7.2 Supported Data Formats
+
+Sprint 1 will demonstrate ingestion of the following data formats:
+
+* CSV
+* Excel
+* JSON
+* XML
+* SQL
+
+The ingested data will be loaded into PostgreSQL staging tables through the data ingestion layer.
+
