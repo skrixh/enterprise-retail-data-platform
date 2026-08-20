@@ -27,3 +27,15 @@ ABC Retail Ltd. requires a unified enterprise data platform to integrate data fr
 The absence of a centralized and standardized data platform makes it difficult for business teams to obtain consistent and reliable information for sales analytics, inventory optimization, customer insights, and executive reporting.
 
 The proposed Enterprise Retail Data Platform (ERDP) will provide a structured approach for ingesting, validating, transforming, storing, and managing retail data.
+
+## 4. Business Objectives
+
+The primary objective of the Enterprise Retail Data Platform (ERDP) is to design and implement an enterprise-grade retail data platform that:
+
+1. Collects retail and e-commerce data from multiple heterogeneous enterprise systems.
+2. Cleans, validates, and standardizes transactional and customer data.
+3. Stores curated datasets in an enterprise PostgreSQL Data Warehouse.
+4. Maintains metadata, audit logs, and end-to-end data lineage.
+5. Supports sales analytics, inventory optimization, customer insights, and executive reporting.
+6. Uses Git and GitHub for collaborative version control.
+7. Produces enterprise-standard technical documentation and sprint deliverables.
