@@ -39,3 +39,15 @@ The primary objective of the Enterprise Retail Data Platform (ERDP) is to design
 5. Supports sales analytics, inventory optimization, customer insights, and executive reporting.
 6. Uses Git and GitHub for collaborative version control.
 7. Produces enterprise-standard technical documentation and sprint deliverables.
+
+## 5. Stakeholders
+
+| Stakeholder          | Role in the Business                                              | Data / Information Required                                                               |
+| -------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Store Managers       | Monitor individual store performance and operations               | Store sales, transactions, product information, and stock availability                    |
+| Supply Chain Team    | Manage supply chain operations and replenishment                  | Supplier orders, delivery information, inventory levels, and supply chain performance     |
+| Inventory Team       | Monitor and optimize inventory                                    | Product stock levels, stock shortages, replenishment information, and inventory movements |
+| Marketing Team       | Analyze customer and purchasing behaviour                         | Customer information, purchase history, and customer activity                             |
+| Finance Team         | Monitor financial and sales performance                           | Transaction data, sales revenue, payment information, and financial metrics               |
+| Executive Management | Monitor overall business performance and make strategic decisions | Sales performance, inventory KPIs, customer insights, and supply chain metrics            |
+
