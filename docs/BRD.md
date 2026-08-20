@@ -193,3 +193,26 @@ The following are outside the scope of this academic project:
 
 7. Development of a customer-facing retail application or e-commerce website.
 
+## 9. Technology Requirements
+
+The Enterprise Retail Data Platform will use the following technologies as specified in the project requirements:
+
+| Category           | Technology                       | Purpose                                                 |
+| ------------------ | -------------------------------- | ------------------------------------------------------- |
+| ETL                | Pentaho Data Integration (Spoon) | Data ingestion and ETL transformations                  |
+| Database           | PostgreSQL                       | Staging, storage, and data warehouse                    |
+| Programming        | Python (Pandas)                  | Data profiling, quality assessment, and data processing |
+| Version Control    | Git & GitHub                     | Collaborative development and version control           |
+| Reporting          | Power BI                         | Retail analytics and executive dashboards               |
+| Documentation      | Markdown / MS Word               | Technical and project documentation                     |
+| Project Management | Agile Scrum                      | Sprint-based project development and delivery           |
+
+### 9.1 Technology Usage Across the Project
+
+* **Pentaho Data Integration (Spoon)** will be used to develop ETL transformations and ingest data from heterogeneous source systems.
+* **PostgreSQL** will be used for staging and, in later sprints, for the retail data warehouse.
+* **Python with Pandas** will be used for data profiling and data quality assessment.
+* **Git and GitHub** will be used to manage source code, documentation, project history, and team collaboration.
+* **Power BI** will be used in later sprints to develop retail analytics and executive dashboards.
+* **Markdown / MS Word** will be used for technical documentation and project deliverables.
+* **Agile Scrum** will be used to organize project activities into sprints and deliver incremental working solutions.
