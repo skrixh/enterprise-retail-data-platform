@@ -139,3 +139,57 @@ Sprint 1 will demonstrate ingestion of the following data formats:
 
 The ingested data will be loaded into PostgreSQL staging tables through the data ingestion layer.
 
+## 8. Project Scope
+
+### 8.1 In Scope
+
+The following activities and capabilities are included in the Enterprise Retail Data Platform project:
+
+1. Analyze the retail business problem and identify relevant business stakeholders.
+
+2. Identify and document heterogeneous retail data sources.
+
+3. Prepare a Business Requirements Document (BRD), project charter, sprint backlog, and solution architecture.
+
+4. Establish a Git and GitHub repository following the specified enterprise repository structure.
+
+5. Use manageable retail datasets to represent multiple enterprise source systems.
+
+6. Support ingestion of CSV, Excel, JSON, XML, and SQL data formats.
+
+7. Develop Pentaho ETL transformations for data ingestion.
+
+8. Load raw ingested data into PostgreSQL staging tables.
+
+9. Implement ingestion logging and exception handling.
+
+10. Prepare source inventory and data dictionary documentation.
+
+11. Progressively perform data profiling, data quality assessment, cleansing, standardization, and transformation in subsequent sprints.
+
+12. Design and implement PostgreSQL warehouse structures and curated datasets in subsequent sprints.
+
+13. Maintain metadata, data lineage, source-to-target mappings, and technical documentation as the project progresses.
+
+14. Develop retail analytics and Power BI dashboards in subsequent sprints.
+
+15. Maintain collaborative development and version control using Git and GitHub.
+
+### 8.2 Out of Scope
+
+The following are outside the scope of this academic project:
+
+1. Integration with ABC Retail Ltd.'s actual production systems or private enterprise databases.
+
+2. Deployment of the platform into a real production environment.
+
+3. Processing of enterprise-scale production data volumes.
+
+4. Real-time streaming ingestion from live POS, payment, logistics, or e-commerce systems.
+
+5. Direct access to confidential customer, financial, or enterprise data.
+
+6. Production-grade cloud infrastructure and enterprise deployment.
+
+7. Development of a customer-facing retail application or e-commerce website.
+
