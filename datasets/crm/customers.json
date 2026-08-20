@@ -1,0 +1,1617 @@
+[
+  {
+    "customer_id": "17850.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13047.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12583.0",
+    "country": "France",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13748.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15100.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15291.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14688.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17809.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15311.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14527.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16098.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18074.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17420.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16029.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16250.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12431.0",
+    "country": "Australia",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17511.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17548.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13705.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13747.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13408.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13767.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17924.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13448.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15862.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15513.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12791.0",
+    "country": "Netherlands",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16218.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14045.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14307.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17908.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17920.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12838.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13255.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16583.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18085.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13758.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13694.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15983.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14849.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17968.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16210.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17897.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17377.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16552.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17181.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17951.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14729.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12748.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15012.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12868.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17572.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14078.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14001.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12662.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15525.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14237.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17905.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15485.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12433.0",
+    "country": "Norway",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16955.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15350.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15605.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18144.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15922.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14594.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15165.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14911.0",
+    "country": "EIRE",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16456.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17841.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12472.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17346.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17643.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17873.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13093.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12921.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13468.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17760.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16928.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16048.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16274.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14496.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14696.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16539.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17025.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13777.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17690.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12947.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17460.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18229.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14142.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17069.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13065.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14606.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16835.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15235.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13576.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18011.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13090.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15694.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14741.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13715.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14092.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17732.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12855.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15752.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17855.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14047.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17925.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13941.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17017.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14135.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13108.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12471.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15601.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13418.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14766.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15658.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14388.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14901.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18041.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15955.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15070.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16244.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15111.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14390.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16546.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15260.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13305.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14491.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14060.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15923.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16752.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17287.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15363.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12915.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15544.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15738.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16042.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17381.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15827.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14180.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13117.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16916.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17964.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14466.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17235.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16510.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17802.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15107.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17976.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14449.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15838.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16781.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17547.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13491.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16186.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17685.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17581.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15732.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13138.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15823.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17567.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15061.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16203.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15640.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15574.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16770.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17838.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17228.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14829.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17412.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14031.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14775.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12971.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15834.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17659.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15299.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15646.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13958.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14443.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14156.0",
+    "country": "EIRE",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16995.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13402.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18168.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17757.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14625.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13011.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13798.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15384.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14264.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13295.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16754.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16634.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18239.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14576.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13145.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14395.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14865.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15093.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12738.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16150.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17552.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14236.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17961.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14573.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17135.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17396.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14213.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12967.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12686.0",
+    "country": "France",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14679.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15240.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18225.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13370.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16883.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13520.0",
+    "country": "Switzerland",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12841.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16905.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12427.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17967.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16891.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14589.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14680.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17884.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12557.0",
+    "country": "Spain",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14083.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13013.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14210.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16477.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12600.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16013.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17949.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12779.0",
+    "country": "Poland",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16926.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17787.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12682.0",
+    "country": "France",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14723.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17954.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17819.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12712.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15373.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16140.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17198.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17238.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12793.0",
+    "country": "Portugal",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15769.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14396.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14898.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12725.0",
+    "country": "Italy",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16725.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12395.0",
+    "country": "Belgium",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16455.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13081.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15545.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17243.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15465.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15708.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13089.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16033.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13838.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15351.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18055.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15038.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18109.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13069.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16241.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14800.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16839.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16168.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16931.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16814.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13269.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14813.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12567.0",
+    "country": "France",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17062.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15332.0",
+    "country": "Lithuania",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14810.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16353.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18118.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13831.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13506.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17796.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15716.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "18156.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15221.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16983.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17059.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16327.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17211.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17026.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15570.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15880.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16718.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15808.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17858.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16393.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14161.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17863.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16411.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16402.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15023.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17402.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15426.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12647.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15894.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15867.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14506.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15555.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13034.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15889.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15953.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16143.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12720.0",
+    "country": "Germany",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "16422.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12747.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "15502.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "12763.0",
+    "country": "Japan",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14081.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "17965.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "14404.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13579.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  },
+  {
+    "customer_id": "13174.0",
+    "country": "United Kingdom",
+    "source_note": "Derived customer record from UCI Online Retail transaction data"
+  }
+]
