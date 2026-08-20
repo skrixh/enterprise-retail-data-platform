@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transformation>
+  <info>
+    <name>customers_json_to_staging</name>
+    <description>Ingest CRM customers.json into PostgreSQL stg_customers (Sprint 1)</description>
+    <trans_type>Normal</trans_type>
+    <directory>/</directory>
+    <created_user>-</created_user>
+    <created_date>2026/08/20 00:00:00.000</created_date>
+    <modified_user>-</modified_user>
+    <modified_date>2026/08/20 00:00:00.000</modified_date>
+  </info>
+  <notepads>
+    <notepad>
+      <note>NOTE: After importing this file into Spoon, you must:
+1. Double-click "JSON Input" and set the correct file path to your local customers.json
+2. Double-click "Table output" and point "retail_pg" connection to your own PostgreSQL server (host/port/db/user/password)
+Then click the Preview / Run (play) button.</note>
+      <xloc>32</xloc>
+      <yloc>16</yloc>
+      <width>420</width>
+      <heigth>90</heigth>
+    </notepad>
+  </notepads>
+  <connection>
+    <name>retail_pg</name>
+    <server>localhost</server>
+    <type>POSTGRESQL</type>
+    <access>Native</access>
+    <database>retail_dw</database>
+    <port>5432</port>
+    <username>postgres</username>
+    <password></password>
+  </connection>
+  <order>
+    <hop>
+      <from>JSON Input</from>
+      <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
+  </order>
+  <step>
+    <name>JSON Input</name>
+    <type>JsonInput</type>
+    <distribute>Y</distribute>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+    </partitioning>
+    <isAFile>Y</isAFile>
+    <IsInFields>N</IsInFields>
+    <doNotFailIfNoFile>N</doNotFailIfNoFile>
+    <ignoreEmptyFile>N</ignoreEmptyFile>
+    <file>
+      <name>${Internal.Entry.Current.Directory}/customers.json</name>
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+    </file>
+    <fields>
+      <field>
+        <name>customer_id</name>
+        <path>$.customer_id</path>
+        <type>String</type>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+      </field>
+      <field>
+        <name>country</name>
+        <path>$.country</path>
+        <type>String</type>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+      </field>
+      <field>
+        <name>source_note</name>
+        <path>$.source_note</path>
+        <type>String</type>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+      </field>
+    </fields>
+    <limit>0</limit>
+    <GUI>
+      <xloc>144</xloc>
+      <yloc>144</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Table output</name>
+    <type>TableOutput</type>
+    <distribute>Y</distribute>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+    </partitioning>
+    <connection>retail_pg</connection>
+    <schema>public</schema>
+    <table>stg_customers</table>
+    <commit>1000</commit>
+    <truncate>Y</truncate>
+    <ignore_errors>N</ignore_errors>
+    <use_batch>Y</use_batch>
+    <specify_fields>N</specify_fields>
+    <GUI>
+      <xloc>352</xloc>
+      <yloc>144</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+</transformation>
