@@ -1,0 +1,30 @@
+Dataset,Validation_Check,Issue_Count,Status
+POS,Duplicate Rows,0,PASS
+E-Commerce,Duplicate Rows,0,PASS
+CRM,Duplicate Rows,0,PASS
+Inventory,Duplicate Rows,0,PASS
+Supplier,Duplicate Rows,0,PASS
+POS,Missing Values,0,PASS
+E-Commerce,Missing Values,0,PASS
+CRM,Missing Values,0,PASS
+Inventory,Missing Values,0,PASS
+Supplier,Missing Values,0,PASS
+POS,Customer IDs not found in CRM,0,PASS
+E-Commerce,Customer IDs not found in CRM,0,PASS
+POS,Product IDs not found in Inventory,14,FAIL
+E-Commerce,Product IDs not found in Inventory,14,FAIL
+Supplier,Product IDs not found in Inventory,1271,FAIL
+POS,Negative Quantity,0,PASS
+POS,Negative Unit Price,0,PASS
+E-Commerce,Negative Quantity,0,PASS
+E-Commerce,Negative Unit Price,0,PASS
+Inventory,Negative Stock Quantity,0,PASS
+Inventory,Negative Reorder Level,0,PASS
+Supplier,Negative Quantity,0,PASS
+Supplier,Negative Unit Cost,0,PASS
+POS,Future Transaction Dates,0,PASS
+E-Commerce,Future Order Dates,0,PASS
+Supplier,Delivery Date Before Order Date,0,PASS
+CRM,Duplicate Customer IDs,0,PASS
+Inventory,Duplicate Inventory IDs,0,PASS
+Supplier,Duplicate Purchase Order IDs,0,PASS
